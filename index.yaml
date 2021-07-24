@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  yc-kes:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-07-24T17:48:45.574713+03:00"
+    description: A Helm chart for Kubernetes
+    digest: 7ddef5c35de736be2f33e3426b56d00345ff796d5706ca29c2f0ab3ab43f62d9
+    name: yc-kes
+    type: application
+    urls:
+    - yc-kes-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-07-24T17:48:45.574305+03:00"
